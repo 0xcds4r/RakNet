@@ -154,6 +154,8 @@ extern int RPC_ScrSetPlayerWorldBounds;
 extern int RPC_ClientCheck;
 extern int RPC_ScrSetAdminLevel;
 extern int RPC_SetArmedWeapon;
+extern int RPC_CameraTarget;
+extern int RPC_SetTargeting;
 
 // unknown rpc
 extern int RPC_Unknown1;
@@ -189,7 +191,6 @@ extern int RPC_Unknown31;
 extern int RPC_Unknown32;
 extern int RPC_Unknown32;
 extern int RPC_Unknown33;
-extern int RPC_Unknown34;
 extern int RPC_Unknown35;
 extern int RPC_Unknown36;
 extern int RPC_Unknown37;
@@ -251,7 +252,6 @@ extern int RPC_Unknown92;
 extern int RPC_Unknown93;
 extern int RPC_Unknown94;
 extern int RPC_Unknown95;
-extern int RPC_Unknown0;
 extern int RPC_Unknown97;
 extern int RPC_Unknown98;
 extern int RPC_Unknown99;
